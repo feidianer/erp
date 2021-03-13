@@ -4,6 +4,7 @@ public class Hello{
 		System.out.println("世界你好！");
 		System.out.println("世界你好2！");
 		System.out.println("世界你好3！");
+		System.out.println("世界你好4！");
 		Admin admin = new Admin();
 		Emp emp = new Emp();
 		System.out.println("学习使我快乐！");
