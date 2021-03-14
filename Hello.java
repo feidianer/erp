@@ -9,5 +9,6 @@ public class Hello{
 		Emp emp = new Emp();
 		System.out.println("学习使我快乐！");
 		Date date = new Date();
+		System.out.println("要好好学习！");
 	}
 }
