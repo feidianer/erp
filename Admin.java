@@ -1,8 +1,6 @@
-import java.util.List;
+package cn.mldn.hr.vo;
+import java.io.*;
 public class Admin{
-	public static void main(String args[]){
-		private List<Emp> emps;
-		private String name;
-		private List<Action> actions;
-	}
+	private String aid;
+	private List<Action> actions;
 }
